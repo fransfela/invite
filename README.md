@@ -1,6 +1,4 @@
-# 🎉 INVITE
-
-**INstant Visual Invitation Text Editor**
+# 📨 INVITE: **INstant Visual Invitation Text Editor**
 
 Auto-fit invitation card generator with responsive sizing - create beautiful, compact invitation cards that automatically adjust to your content.
 
